@@ -1,0 +1,8 @@
+C:/StudentManagerSingleton/build/CMakeFiles/main_app.dir
+C:/StudentManagerSingleton/build/CMakeFiles/test.dir
+C:/StudentManagerSingleton/build/CMakeFiles/edit_cache.dir
+C:/StudentManagerSingleton/build/CMakeFiles/rebuild_cache.dir
+C:/StudentManagerSingleton/build/test/CMakeFiles/sample_test.dir
+C:/StudentManagerSingleton/build/test/CMakeFiles/test.dir
+C:/StudentManagerSingleton/build/test/CMakeFiles/edit_cache.dir
+C:/StudentManagerSingleton/build/test/CMakeFiles/rebuild_cache.dir

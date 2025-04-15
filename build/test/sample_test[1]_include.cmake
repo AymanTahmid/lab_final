@@ -1,0 +1,5 @@
+if(EXISTS "C:/StudentManagerSingleton/build/test/sample_test[1]_tests.cmake")
+  include("C:/StudentManagerSingleton/build/test/sample_test[1]_tests.cmake")
+else()
+  add_test(sample_test_NOT_BUILT sample_test_NOT_BUILT)
+endif()

@@ -1,0 +1,5 @@
+add_test([=[StudentManagerTest.AddStudentTest]=]  C:/StudentManagerSingleton/build/test/sample_test.exe [==[--gtest_filter=StudentManagerTest.AddStudentTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[StudentManagerTest.AddStudentTest]=]  PROPERTIES WORKING_DIRECTORY C:/StudentManagerSingleton/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[StudentManagerTest.RemoveStudentTest]=]  C:/StudentManagerSingleton/build/test/sample_test.exe [==[--gtest_filter=StudentManagerTest.RemoveStudentTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[StudentManagerTest.RemoveStudentTest]=]  PROPERTIES WORKING_DIRECTORY C:/StudentManagerSingleton/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  sample_test_TESTS StudentManagerTest.AddStudentTest StudentManagerTest.RemoveStudentTest)

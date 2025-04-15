@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build Project",
+        "type": "shell",
+        "command": "cmake -S . -B build -G \"MinGW Makefiles\" && cmake --build build",
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": []
+      }
+    ]
+  }
+  

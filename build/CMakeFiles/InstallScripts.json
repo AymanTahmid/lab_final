@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/StudentManagerSingleton/build/cmake_install.cmake",
+		"C:/StudentManagerSingleton/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
